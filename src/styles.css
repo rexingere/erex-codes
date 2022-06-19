@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body {
+    padding: 3vw;
+    background-color: #a2a2a3;
+}
+
+@font-face {
+    font-family: "MarketDeco";
+    src:url('assets/fonts/Market_Deco.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: "Robota";
+    src:url('assets/fonts/Robota-NonCommercial.otf') format("opentype");
+}
+
+@font-face {
+    font-family: "LemonMilk";
+    src:url('assets/fonts/LEMONMILK-Regular.otf') format("opentype");
+}

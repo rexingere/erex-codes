@@ -1,0 +1,20 @@
+.main {
+    display: flex;          /* Magic begins        */
+    flex-direction: column; /* Vertical layout     */
+    align-items: center;
+
+}
+
+.title {
+    font-family: LemonMilk;
+    font-weight: bold;
+    color: rgb(15, 15, 15);
+    font-size: 3vw;
+    text-align: center;
+        
+}
+
+img {
+    margin: 3vw;
+    width: 40vw;
+}
