@@ -25,3 +25,8 @@ body {
     font-family: "ChampLimo";
     src:url('assets/fonts/ChampagneLimousines.ttf') format("truetype");
 }
+
+@font-face {
+    font-family: "Retroica";
+    src:url('assets/fonts/Retroica.ttf') format("truetype");
+}
