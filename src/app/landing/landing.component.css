@@ -1,0 +1,21 @@
+.xtreme-center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+.title {
+    font-family: Retroica;
+    font-weight: bold;
+    color: rgb(15, 15, 15);
+    font-size: 3vw;
+    text-align: center;
+        
+}
+
+img {
+    margin: 3vw;
+    width: 40vw;
+}

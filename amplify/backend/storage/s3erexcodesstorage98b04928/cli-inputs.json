@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3erexcodesstorage98b04928",
+  "bucketName": "erex-codes-storage-98b04928",
+  "policyUUID": "eb41c39c",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "READ",
+    "CREATE_AND_UPDATE",
+    "DELETE"
+  ]
+}
